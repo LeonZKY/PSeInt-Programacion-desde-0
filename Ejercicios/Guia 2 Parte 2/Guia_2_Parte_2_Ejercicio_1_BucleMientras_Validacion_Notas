@@ -1,0 +1,12 @@
+//	Escriba un programa que valide si una nota está entre 0 y 10, sino está entre 0 y 10 la nota
+//	se pedirá de nuevo hasta que la nota sea correcta. 
+
+Algoritmo Guia_2_Parte_2_Ejercicio_1_BucleMientras_Validacion_Notas
+	definir nota Como Entero
+	nota= 11
+	mientras (nota <0) o (nota >10) Hacer
+		escribir "Ingrese una nota: "
+		leer nota
+	FinMientras
+	escribir "La nota " nota " es valida"
+FinAlgoritmo
