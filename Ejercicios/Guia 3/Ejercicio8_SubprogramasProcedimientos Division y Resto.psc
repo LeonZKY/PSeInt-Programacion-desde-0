@@ -1,7 +1,7 @@
-//Realizar un procedimiento que permita realizar la división entre dos números y muestre el
-//cociente y el resto utilizando el método de restas sucesivas. 
-//El método de división por restas sucesivas consiste en restar el dividendo con el divisor hasta
-//obtener un resultado menor que el divisor, este resultado es el residuo, y el número de restas
+//Realizar un procedimiento que permita realizar la divisiÃ³n entre dos nÃºmeros y muestre el
+//cociente y el resto utilizando el mÃ©todo de restas sucesivas. 
+//El mÃ©todo de divisiÃ³n por restas sucesivas consiste en restar el dividendo con el divisor hasta
+//obtener un resultado menor que el divisor, este resultado es el residuo, y el nÃºmero de restas
 //realizadas es el cociente. Por ejemplo: 50 / 13: 
 //		50 ? 13 = 37 una resta realizada
 //		37 ? 13 = 24 dos restas realizadas
