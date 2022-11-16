@@ -1,10 +1,10 @@
-//Realizar un programa que rellene un vector de tamaÒo N, con valores ingresados por el
-//usuario. A continuaciÛn, se deber· crear una funciÛn que reciba el vector y devuelva el valor
-//m·s grande del vector. 
+//Realizar un programa que rellene un vector de tama√±o N, con valores ingresados por el
+//usuario. A continuaci√≥n, se deber√° crear una funci√≥n que reciba el vector y devuelva el valor
+//m√°s grande del vector. 
 
 Algoritmo Ejercicio5_ArreglosVectores
 	Definir vectorPrueba, indice Como Entero
-	Escribir "Ingrese el tamaÒo del vector: " Sin Saltar
+	Escribir "Ingrese el tama√±o del vector: " Sin Saltar
 	leer indice
 	Dimension vectorPrueba(indice)
 	
@@ -19,7 +19,7 @@ Algoritmo Ejercicio5_ArreglosVectores
 	FinPara
 	Escribir " "
 	
-	Escribir "El elemento de mayor valor ser·: " buscadorElemento(vectorPrueba, indice)
+	Escribir "El elemento de mayor valor ser√°: " buscadorElemento(vectorPrueba, indice)
 FinAlgoritmo
 
 Funcion maximoElemento = buscadorElemento(vectorPrueba, indice)
