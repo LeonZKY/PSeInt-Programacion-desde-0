@@ -1,4 +1,4 @@
-//Rellenar en un subproceso una matriz cuadrada con números aleatorios salvo en la diagonal
+//Rellenar en un subproceso una matriz cuadrada con nÃºmeros aleatorios salvo en la diagonal
 //	principal, la cual debe rellenarse con ceros. Una vez llena la matriz debe generar otro
 //	subproceso para imprimir la matriz. 
 
