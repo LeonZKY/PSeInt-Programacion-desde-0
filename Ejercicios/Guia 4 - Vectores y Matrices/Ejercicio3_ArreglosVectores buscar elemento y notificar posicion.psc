@@ -1,14 +1,14 @@
-//Realizar un programa que rellene un vector de tamaño N, con valores ingresados por el
-//usuario. A continuación, se debe buscar un elemento dentro del arreglo (el número a buscar 
-//también debe ser ingresado por el usuario). El programa debe indicar la posición donde se
-//encuentra el valor. En caso que el número se encuentre repetido dentro del arreglo se deben
+//Realizar un programa que rellene un vector de tamaÃ±o N, con valores ingresados por el
+//usuario. A continuaciÃ³n, se debe buscar un elemento dentro del arreglo (el nÃºmero a buscar 
+//tambiÃ©n debe ser ingresado por el usuario). El programa debe indicar la posiciÃ³n donde se
+//encuentra el valor. En caso que el nÃºmero se encuentre repetido dentro del arreglo se deben
 //imprimir todas las posiciones donde se encuentra ese valor.  
-//Finalmente, en caso que el número a buscar no está adentro del arreglo se debe mostrar un
+//Finalmente, en caso que el nÃºmero a buscar no estÃ¡ adentro del arreglo se debe mostrar un
 //mensaje. 
 
 Algoritmo Ejercicio3_ArreglosVectores
 	Definir vectorPrueba, indice, numeroBusqueda, contador Como Entero
-	Escribir "Ingrese el tamaño del vector: " Sin Saltar
+	Escribir "Ingrese el tamaÃ±o del vector: " Sin Saltar
 	leer indice
 	Dimension vectorPrueba(indice)
 	
@@ -37,7 +37,7 @@ Algoritmo Ejercicio3_ArreglosVectores
 	FinPara
 	
 	si contador = indice Entonces
-		Escribir "El número a buscar no está adentro del arreglo"
+		Escribir "El nÃºmero a buscar no estÃ¡ adentro del arreglo"
 	FinSi
 	
 	
