@@ -1,7 +1,7 @@
-//Realizar una función que reciba un numero ingresado por el usuario y averigüe si el número
-//tiene todos sus dígitos impares (ejemplo: 333, 55, etc.). Para esto vamos a tener que separar el
-//		numero en partes (si es un numero de más de un digito) y ver si cada número es par o impar.
-//		Nota: recordar el uso de la función Mod y Trunc(). No podemos pasar el numero a cadena para
+//Realizar una funciÃ³n que reciba un numero ingresado por el usuario y averigÃ¼e si el nÃºmero
+//tiene todos sus dÃ­gitos impares (ejemplo: 333, 55, etc.). Para esto vamos a tener que separar el
+//		numero en partes (si es un numero de mÃ¡s de un digito) y ver si cada nÃºmero es par o impar.
+//		Nota: recordar el uso de la funciÃ³n Mod y Trunc(). No podemos pasar el numero a cadena para
 //				realizar el ejercicio. 
 
 Algoritmo EjercicioExtra6SubprogramasFunciones
