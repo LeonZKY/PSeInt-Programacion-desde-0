@@ -1,12 +1,12 @@
-//Realizar un programa que lea 10 números reales por teclado, los almacene en un arreglo y
-//muestre por pantalla la suma, resta y multiplicación de todos los números ingresados al
+//Realizar un programa que lea 10 nÃºmeros reales por teclado, los almacene en un arreglo y
+//muestre por pantalla la suma, resta y multiplicaciÃ³n de todos los nÃºmeros ingresados al
 //arreglo.
 
 
 Algoritmo Ejercicio2_ArreglosVectores
 	Definir vectorPrueba, indice, suma, multiplicacion Como real
 	indice = 10
-	Escribir "Tamaño de vector = " indice
+	Escribir "TamaÃ±o de vector = " indice
 	Dimension vectorPrueba(indice)
 	
 	suma = 0
