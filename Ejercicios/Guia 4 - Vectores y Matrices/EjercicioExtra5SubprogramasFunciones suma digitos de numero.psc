@@ -1,7 +1,7 @@
-//Realizar una función que calcule la suma de los dígitos de un número.
+//Realizar una funciÃ³n que calcule la suma de los dÃ­gitos de un nÃºmero.
 //Ejemplo: 25 = 2 + 5 = 7
-//Nota: Para obtener el último número de un digito de 2 cifras o más debemos pensar en el
-//		resto de una división entre 10. Recordar el uso de la función Mod y Trunc. 
+//Nota: Para obtener el Ãºltimo nÃºmero de un digito de 2 cifras o mÃ¡s debemos pensar en el
+//		resto de una divisiÃ³n entre 10. Recordar el uso de la funciÃ³n Mod y Trunc. 
 
 Algoritmo EjercicioExtra5SubprogramasFunciones
 	Definir num Como Entero
