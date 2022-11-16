@@ -1,7 +1,7 @@
-//Crear una funciÛn llamada "Login", que recibe un nombre de usuario y una contraseÒa y que
-//devuelve Verdadero si el nombre de usuario es "usuario1" y si la contraseÒa es "asdasd".
-//		Adem·s, la funciÛn calculara el n˙mero de intentos que se ha usado para loguearse, tenemos
-//			solo 3 intentos, si nos quedamos sin intentos la funciÛn devolver· Falso. 
+//Crear una funci√≥n llamada "Login", que recibe un nombre de usuario y una contrase√±a y que
+//devuelve Verdadero si el nombre de usuario es "usuario1" y si la contrase√±a es "asdasd".
+//		Adem√°s, la funci√≥n calculara el n√∫mero de intentos que se ha usado para loguearse, tenemos
+//			solo 3 intentos, si nos quedamos sin intentos la funci√≥n devolver√° Falso. 
 
 Algoritmo EjercicioExtra3SubprogramasFunciones
 	Escribir Login()
@@ -17,7 +17,7 @@ Funcion verificacion = Login()
 		Leer NombreUsuario
 		verificacion = NombreUsuario == "usuario1"
 		si NombreUsuario = "usuario1" Entonces
-			Escribir "Ahora ingrese contraseÒa: " Sin Saltar
+			Escribir "Ahora ingrese contrase√±a: " Sin Saltar
 			Leer Contrasenia
 			verificacion = NombreUsuario = "usuario1" y Contrasenia == "asdasd"
 			si Contrasenia == "asdasd" Entonces
