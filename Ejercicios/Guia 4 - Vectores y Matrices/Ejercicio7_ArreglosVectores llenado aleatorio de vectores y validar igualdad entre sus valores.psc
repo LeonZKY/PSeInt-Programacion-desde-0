@@ -1,11 +1,11 @@
-//Crear un subproceso que rellene dos arreglos de tamaño n, con números aleatorios. Después,
-//hacer una función que reciba los dos arreglos y diga si todos sus valores son iguales o no. La
-//función debe devolver el resultado de está validación, para mostrar el mensaje en el algoritmo.
-//Nota: recordar el uso de las variables de tipo lógico. 
+//Crear un subproceso que rellene dos arreglos de tamaÃ±o n, con nÃºmeros aleatorios. DespuÃ©s,
+//hacer una funciÃ³n que reciba los dos arreglos y diga si todos sus valores son iguales o no. La
+//funciÃ³n debe devolver el resultado de estÃ¡ validaciÃ³n, para mostrar el mensaje en el algoritmo.
+//Nota: recordar el uso de las variables de tipo lÃ³gico. 
 
 Algoritmo Ejercicio7_ArreglosVectores
 	Definir vectorA, vectorB, indiceAB Como Entero
-	Escribir "Defina tamaño de los vectores: " Sin Saltar
+	Escribir "Defina tamaÃ±o de los vectores: " Sin Saltar
 	leer indiceAB
 	Dimension vectorA(indiceAB), vectorB(indiceAB)
 	llenadoVectorAyB(vectorA, vectorB, indiceAB)
