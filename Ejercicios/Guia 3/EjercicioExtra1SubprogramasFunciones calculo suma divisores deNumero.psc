@@ -1,5 +1,6 @@
-//Realizar una función que calcule y retorne la suma de todos los divisores del número n
+//Realizar una funciÃ³n que calcule y retorne la suma de todos los divisores del nÃºmero n
 //distintos de n. El valor de n debe ser ingresado por el usuario. 
+
 Algoritmo EjercicioExtra1
 	Definir funcion1, num Como Real
 	Escribir "Ingrese un numero: " Sin Saltar
