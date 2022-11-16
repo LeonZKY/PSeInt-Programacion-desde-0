@@ -1,7 +1,7 @@
-//Crear un procedimiento que calcule la temperatura media de un día a partir de la temperatura
-//máxima y mínima. Crear un programa principal, que, utilizando un procedimiento, vaya
-//pidiendo la temperatura máxima y mínima de n días y vaya mostrando la media de cada día. El
-//programa pedirá el número de días que se van a introducir. 
+//Crear un procedimiento que calcule la temperatura media de un dÃ­a a partir de la temperatura
+//mÃ¡xima y mÃ­nima. Crear un programa principal, que, utilizando un procedimiento, vaya
+//pidiendo la temperatura mÃ¡xima y mÃ­nima de n dÃ­as y vaya mostrando la media de cada dÃ­a. El
+//programa pedirÃ¡ el nÃºmero de dÃ­as que se van a introducir. 
 
 Algoritmo Ejercicio7_SubprogramasProcedimientos
 	Definir numeroDeDias Como Entero
