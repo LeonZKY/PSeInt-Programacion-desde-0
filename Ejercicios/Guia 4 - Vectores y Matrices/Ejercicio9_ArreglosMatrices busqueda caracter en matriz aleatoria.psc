@@ -1,5 +1,5 @@
-//Escribir un programa que realice la búsqueda lineal de un número entero ingresado por el
-//usuario en una matriz de 5x5, llena de números aleatorios y devuelva por pantalla las
+//Escribir un programa que realice la bÃºsqueda lineal de un nÃºmero entero ingresado por el
+//usuario en una matriz de 5x5, llena de nÃºmeros aleatorios y devuelva por pantalla las
 //coordenadas donde se encuentra el valor, es decir en que fila y columna se encuentra. En
 //caso de no encontrar el valor dentro de la matriz se debe mostrar un mensaje. 
 
@@ -32,7 +32,7 @@ Algoritmo Ejercicio9_ArreglosMatrices
 	Para indiceY = 0 Hasta indiceY-1 Hacer
 		Para indiceX = 0 Hasta indiceX-1 Hacer
 		si matriz(indiceY, indiceX) = numeroBusqueda Entonces
-			Escribir "El valor numerico buscado está en el indice Y " indiceY " e indice X: " indiceX
+			Escribir "El valor numerico buscado estÃ¡ en el indice Y " indiceY " e indice X: " indiceX
 		SiNo
 			contador = contador + 1
 		FinSi
@@ -40,6 +40,6 @@ Algoritmo Ejercicio9_ArreglosMatrices
 	FinPara
 	
 	si contador = 25 Entonces
-		Escribir "El número a buscar no está adentro del arreglo"
+		Escribir "El nÃºmero a buscar no estÃ¡ adentro del arreglo"
 	FinSi
 FinAlgoritmo
