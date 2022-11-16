@@ -5,7 +5,7 @@ Fin Funcion
 
 Algoritmo ejercicio_Cooperar_p1
 	Definir car1, car2 Como Cadena
-	car1 = "¡Cooperando "
+	car1 = "Â¡Cooperando "
 	car2 = "trabajamos mejor!"
 	Escribir Cooperar(car1, car2)
 FinAlgoritmo
