@@ -1,6 +1,6 @@
 //Realizar un programa que pida al usuario una frase y una letra a buscar en esa frase. La
-//función debe devolver la cantidad de veces que encontró la letra. Nota: recordar el uso de la
-//	función Subcadena().
+//funciÃ³n debe devolver la cantidad de veces que encontrÃ³ la letra. Nota: recordar el uso de la
+//	funciÃ³n Subcadena().
 
 Algoritmo Ejercicio4_SubprogramasFunciones
 	Definir frase, letra Como Caracter
