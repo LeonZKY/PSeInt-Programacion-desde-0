@@ -1,5 +1,5 @@
-//Realizar una función que reciba un numero ingresado por el usuario y averigüe si el número es
-//primo o no. Un número es primo cuando es divisible sólo por 1 y por sí mismo, por ejemplo: 2,
+//Realizar una funciÃ³n que reciba un numero ingresado por el usuario y averigÃ¼e si el nÃºmero es
+//primo o no. Un nÃºmero es primo cuando es divisible sÃ³lo por 1 y por sÃ­ mismo, por ejemplo: 2,
 //3, 5, 7, 11, 13, 17, etc. Nota: recordar el uso del MOD. 
 
 Algoritmo Ejercicio5_SubprogramasFunciones
