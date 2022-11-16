@@ -1,5 +1,5 @@
-//Diseñar una función que reciba un numero en forma de cadena y lo devuelva como numero
-//entero. El programa podrá recibir números de hasta 3 dígitos. Nota: no poner números con
+//DiseÃ±ar una funciÃ³n que reciba un numero en forma de cadena y lo devuelva como numero
+//entero. El programa podrÃ¡ recibir nÃºmeros de hasta 3 dÃ­gitos. Nota: no poner nÃºmeros con
 //	decimales 
 
 Algoritmo EjercicioExtra2SubprogramasFunciones
