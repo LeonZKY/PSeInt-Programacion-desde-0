@@ -5,7 +5,7 @@
 Algoritmo Ejercicio1_ArreglosVectores
 	Definir vectorPrueba, indice Como Entero
 	indice = 5
-	Escribir "Tamaño de vector = " indice
+	Escribir "TamaÃ±o de vector = " indice
 	Dimension vectorPrueba(indice)
 	Para indice = 0 Hasta indice-1 Hacer
 		Escribir "Ingrese valor numerico del vector para indice " indice " : " Sin Saltar
