@@ -1,6 +1,6 @@
-//Crea una función EsMultiplo que reciba los dos números pasados por el usuario, validando
-//que el primer número múltiplo del segundo y devuelva verdadero si el primer número es
-//	múltiplo del segundo, sino es múltiplo que devuelva falso.
+//Crea una funciÃ³n EsMultiplo que reciba los dos nÃºmeros pasados por el usuario, validando
+//que el primer nÃºmero mÃºltiplo del segundo y devuelva verdadero si el primer nÃºmero es
+//	mÃºltiplo del segundo, sino es mÃºltiplo que devuelva falso.
 
 Algoritmo Ejercicio3_SubprogramasFunciones
 	Definir numerouno, numerodos Como Entero
