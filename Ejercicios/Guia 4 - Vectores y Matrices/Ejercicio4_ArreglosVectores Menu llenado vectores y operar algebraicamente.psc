@@ -1,28 +1,28 @@
-//Realizar un programa con el siguiente menú y le pregunte al usuario que quiere hacer hasta
-//que ingrese la opción Salir: 
-//	A. Llenar Vector A. Este vector es de tamaño N y se debe llenar de manera aleatoria
-//	usando la función Aleatorio(valorMin, valorMax) de PseInt. 
+//Realizar un programa con el siguiente menÃº y le pregunte al usuario que quiere hacer hasta
+//que ingrese la opciÃ³n Salir: 
+//	A. Llenar Vector A. Este vector es de tamaÃ±o N y se debe llenar de manera aleatoria
+//	usando la funciÃ³n Aleatorio(valorMin, valorMax) de PseInt. 
 
-//	B. Llenar Vector B. Este vector también es de tamaño N y se llena de manera aleatoria.
+//	B. Llenar Vector B. Este vector tambiÃ©n es de tamaÃ±o N y se llena de manera aleatoria.
 
 //	C. Llenar Vector C con la suma de los vectores A y B. La suma se debe realizar elemento
 //a elemento. Ejemplo: C = A + B
 //	D. Llenar Vector C con la resta de los vectores B y A. La resta se debe realizar elemento a
 //elemento. Ejemplo: C = B - A
 
-//E. Mostrar. Esta opción debe permitir al usuario decidir qué vector quiere mostrar: Vector
+//E. Mostrar. Esta opciÃ³n debe permitir al usuario decidir quÃ© vector quiere mostrar: Vector
 //	A, B, o C.
 
 //	F. Salir.  
-//NOTA: El rango de los números aleatorios para los Vectores será de [-100 a 100]. La longitud
-//		para todos los vectores debe ser la misma, por lo tanto, esa información sólo se solicitará una
+//NOTA: El rango de los nÃºmeros aleatorios para los Vectores serÃ¡ de [-100 a 100]. La longitud
+//		para todos los vectores debe ser la misma, por lo tanto, esa informaciÃ³n sÃ³lo se solicitarÃ¡ una
 //vez.
 
 Algoritmo Ejercicio4_ArreglosVectores
 	Definir vectorA, indiceABC, vectorB, vectorC Como Entero
 	Definir menu, mostrarVector Como Caracter
 	
-	Escribir "Ingrese el tamaño del vector A, B, y C: " Sin Saltar
+	Escribir "Ingrese el tamaÃ±o del vector A, B, y C: " Sin Saltar
 	leer indiceABC
 	
 	Repetir	
